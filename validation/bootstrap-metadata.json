@@ -1,0 +1,31 @@
+{
+  "pnpm": {
+    "name": "pnpm",
+    "version": "10.33.4",
+    "dist": {
+      "shasum": "51c19af7e6049ca2b2a10ccb9e1d511346570cc4",
+      "tarball": "https://registry.npmjs.org/pnpm/-/pnpm-10.33.4.tgz",
+      "fileCount": 1068,
+      "integrity": "sha512-HGezs1my1AgRm6HtKJ80uPw8aHNBK+xv0mT73IJInlEPy+y5zp0i2ufzt2Jp2EQQRgFL3KU7mXnNelYa1jG4AA==",
+      "signatures": [
+        {
+          "sig": "MEUCIQD0EzM9ITmy5RyEnF+l24UFOFFSbfdnXwnUzJOdyRK2SwIgSYI5KuarBnGumcexzcxUe6UJRbfpOC+7ut6AQG//8+E=",
+          "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+        }
+      ],
+      "attestations": {
+        "url": "https://registry.npmjs.org/-/npm/v1/attestations/pnpm@10.33.4",
+        "provenance": {
+          "predicateType": "https://slsa.dev/provenance/v1"
+        }
+      },
+      "unpackedSize": 19060050
+    }
+  },
+  "jq": {
+    "name": "jq-linux-amd64",
+    "size": 2255816,
+    "digest": "sha256:020468de7539ce70ef1bceaf7cde2e8c4f2ca6c3afb84642aabc5c97d9fc2a0d",
+    "browser_download_url": "https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-linux-amd64"
+  }
+}
